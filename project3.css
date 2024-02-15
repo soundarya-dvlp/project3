@@ -1,0 +1,348 @@
+.scroll{
+    overflow: hidden;
+}
+.he1{
+    color: orange;
+    padding: 40px 0px;
+}
+.inbox1{
+    background-color: rgba(113, 107, 107, 0.808);
+   min-height:200px ; 
+   margin-bottom: 40px;
+   
+    
+}
+.he2{
+    text-align: center;
+}
+.inbox2{
+    color: aliceblue;
+    padding-left: 30px;
+    padding-top: 50px;
+   
+}
+.inbox3{
+    color: orange;
+    font-size: 70px;
+}
+.p {
+    text-align: center;
+}
+.p1{
+    font-size: 20px;
+}
+.a{
+    border-style: solid;
+    border-color:orange;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px 10px;
+    display: inline-block;
+    padding: 2px 30px;
+
+}
+.sec1{
+    background-image:url(1000_F_199227139_FCFEMYvJMfzebvcS7S0s3BGerCMpfIVl.jpg);
+    background-size: cover;
+
+}
+.inbox4{
+    background-image: url(stock-photo-handsome-positive-engineer-suit-safety-vest-holding-blueprints-looking-camera.jpg);
+    height: 600px;
+   background-size:cover ;
+    background-color: rgb(104, 96, 96);
+    background-position: center;
+    
+}
+.div1{
+    background-color: #f1f1f1;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 80px;
+
+}
+.a1{
+    background-color: orange;
+    padding: 2px 15px;
+    text-decoration: none;
+    
+}
+.p1{
+    text-align: left;
+}
+.sec3{
+    background-color: rgb(218, 229, 238) ;
+    /* height: 800px; */
+}
+.inbox7{
+    background-image: url(360_F_83928200_mYGZqB0ozTtSS6J5EtW9834mjb5tLW6x.jpg);
+    min-height: 360px;
+    margin-left: 0px;
+    background-size: cover;
+}
+.inbox8{
+    background-image: url(istockphoto-936149030-612x612.jpg);
+    min-height: 408px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    
+}
+.p2{
+    font-size: 20px;
+}
+@media(max-width:900px ){
+    .p2{
+        font-size: 15px;
+    }
+}
+.sec4{
+    background-color: rgb(218, 229, 238) ;
+    
+}
+.he5{
+    text-align: center;
+    font-weight: bold;
+}
+.p3{
+    text-align: center;
+}
+.inbox11{
+    background-color:orange;
+    min-height: 180px;
+}
+.he6{
+    text-align: center;
+}
+.p4{
+    text-align:center ;
+    font-size: 15px;
+}
+.inbox12{
+    background-color: aliceblue;
+    background-image:url(werner-extension-ladder-walkthru-accessory.jpg);
+    background-size:cover;
+    min-height: 180px;
+}
+.inbox13{
+    background-image: url(istockphoto-481628382-612x612.jpg);
+    min-height:180px;
+    background-size: cover;
+    margin-top: 20px;
+}
+.inbox14{
+    background-color: aliceblue;
+    min-height: 180PX;
+    margin-top: 20px;
+}
+.inbox15{
+    background-image:url(comment-construire-une-maison-artisans-definition-les-indebat-600x400.jpg) ;
+    height: 180PX;
+    background-size: cover;
+    margin-top: 20px;
+}
+.p5{
+    text-align: center;
+}
+.sec5{
+    background-color: rgb(88, 84, 84);
+    background-image: url(img-9531.jpg);
+    background-size: cover;
+    
+    
+
+}
+
+.ic{
+    font-size: 60px;
+    color: orange;
+    display: inline-block;
+    margin-top: 45px;
+}
+.p6{
+    font-size: 20px;
+    color: orange;
+    
+  
+}
+.inbox16{
+    text-align: center;
+    height: 300px;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.584);
+}
+.he7{
+    color: white;
+}
+.he8{
+    background-color: orange;
+    height: 50px;
+    width: 200px;
+    
+}
+
+
+.he9{
+    margin-top: 20px;
+}
+.p7{
+    
+    color: rgba(28, 27, 27, 0.468);
+}
+.inbox17{
+    padding-top: 20px;
+}
+.inbox18{
+    background-image: url(architecture-details-modern-building-facade-260nw-2300414209.webp);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.inbox19{
+    min-height:200px ;
+}
+.sec7{
+    min-height: 700px;
+    text-align: center;
+}
+
+.inbox20{
+    min-height: 150px;
+    text-align:center;
+}
+.inbox21{
+    background-color: rgb(229, 229, 172);
+    min-height: 150px;
+   
+    
+    text-align: center;
+}
+
+.inbox22{
+    background-color: orange;
+    min-height: 150px;
+    
+    text-align: center;
+}
+.inbox23{
+    background-image: url(woman-working-as-engineer_23-2148836100.avif);
+    background-size: cover;
+    background-position: center;
+    min-height: 314px;
+    
+}
+.sec8{
+    
+    background-image: url(pngtree-city-sunset-sunset-night-building-rooftop-photography-photo-map-picture-image_1502132.jpg);
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.he10{
+    text-align: center;
+    margin-top: 25px;
+}
+.p8{
+    text-align: center;
+}
+.inbox25{
+    background-color: #f1f1f1;
+    height: 200px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+    
+
+.inbox27{
+    background-color: aliceblue;
+    min-height: 300px;
+    border-radius: 20px;
+}
+.p9{
+    text-align:center;
+    padding-top: 50px;
+}
+.a2{
+    
+    margin-top: 30px;
+    text-align: center;
+}
+.a3{
+    color: aliceblue;
+
+    text-decoration: none;
+    margin-top: 20px;
+    border-style: solid;
+    border-color:white;
+
+}
+
+    
+    
+   
+    
+.a4{
+    min-height: 1px;
+}
+.sec10{
+   background-image: url(1000_F_199227139_FCFEMYvJMfzebvcS7S0s3BGerCMpfIVl.jpg);
+   background-size: cover;
+   min-height: 700px;
+   
+}
+.inbox29{
+    background-color: aliceblue;
+    min-height: 300px;
+    margin-top: 50px;
+    text-align: center;
+}
+.inbox30{
+    background-color:orange;
+    height: 300px;
+    margin-top: 50px;
+}
+.ic1{
+    font-size: 60px; 
+}
+
+
+.he11{
+    text-align: center;
+}
+.p10{
+    margin-top: 100px;
+    text-align: center;
+}
+.img1{
+    border-radius: 50%;
+    text-align: center;
+}
+.img2{
+    border-radius: 50%;
+}
+.a5{
+     background-color: orange;
+     padding-top: 20px;
+     text-decoration: none;
+}
+
+@media(max-width:768px){
+    .inbox17{
+        display: none;
+    }
+    
+    
+}
+.sh{
+    text-align: center;
+}
+.bt{
+    text-align: center;
+    padding-right: 50px;
+}
+
+.inbox33{
+    text-align: center;
+}
